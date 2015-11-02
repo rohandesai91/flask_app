@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        }
+    ]
+}
