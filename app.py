@@ -5,9 +5,9 @@
 # app.before_request(bind_request_params)
 
 
-# @app.route("/")
-# def main():
-# 	return "Welcome"
+@app.route("/")
+def main():
+	return "Test Page"
 
 # @app.route('/flu')
 # def fun():
