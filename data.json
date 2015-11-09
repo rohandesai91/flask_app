@@ -1,0 +1,45 @@
+{
+  "Description" : "A collection of diseases and their symptoms.",
+  "Cough" :  {
+    "Influenza": 70,
+    "Lung cancer": 20,
+    "Allergy": 51.6,
+    "Common Cold": 80
+  },
+  "no sleep" : {
+    "Depression" : 43.2,
+    "Sleep Apnea": 60,
+    "Alcohol Hangover" : 40
+  },
+  "sneezing": {
+    "Allergy": 70,
+    "Sinusitis":30,
+    "Influenza":70
+  },
+  "watery eyes" : {
+    "Conjunctivitis" : 40,
+    "Common Cold" : 80,
+    "Hay fever" : 10
+  },
+  "headache" : {
+    "Migraine" : 40,
+    "Sinusitis" : 30,
+    "Common cold": 70,
+    "Influenza" : 50
+  },
+  "ear pain" : {
+    "tonsilitis" : 40,
+    "Middle ear injury" : 40,
+    "ear wax" : 80
+  },
+  "jaw pain" : {
+    "Heart attack" : 10,
+    "Tooth Abscess" : 50,
+    "Sinusitis" : 50,
+    "Tonsilitis" : 30
+  }
+
+
+
+  }
+  

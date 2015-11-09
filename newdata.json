@@ -1,0 +1,1477 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 3.5,
+                "coughing": 8.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 2.5,
+                "coughing": 7.5,
+                "title": "Lung_cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 1.5,
+                "coughing": 9.5,
+                "title": "Influenza"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 6.5,
+                "title": "Common_cold"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "nosleep": 4.5,
+                "title": "Depression"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 2.5,
+                "nosleep": 6.5,
+                "title": "SleepApnea"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 3.5,
+                "nosleep": 7.5,
+                "title": "Hangover"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "wateryeyes": 8.5,
+                "title": "conjunctivitis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "coughing": 7.5,
+                "wateryeyes": 3.5,
+                "title": "CommonCold"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 3.5,
+                "wateryeyes": 8.5,
+                "title": "HayFever"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "earpain": 7.5,
+                "coughing": 2.5,
+                "title": "tonsilitis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 3.5,
+                "earpain": 8.5,
+                "title": "MiddleEarInjury"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "earpain": 9.5,
+                "title": "EarWax"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "jawpain": 2.5,
+                "headache": 4.5,
+                "title": "ToothAbscess"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 3.5,
+                "jawpain": 7.5,
+                "title": "Sinusitis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "vomiting": 8.5,
+                "stomachpain": 2.5,
+                "title": "Appendicitis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "vomiting": 9.5,
+                "stomachpain": 4.5,
+                "title": "FoodPoisoning"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "vomiting": 4.5,
+                "headache": 7.5,
+                "title": "Migrane"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "vomiting": 5.5,
+                "headache": 4.5,
+                "title": "Concussion"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stomachpain": 6.5,
+                "headache": 4.5,
+                "title": "HepatitisA"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "vomiting": 8.5,
+                "stomachpain": 7.5,
+                "title": "StomachCancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "vomiting": 8.5,
+                "stomachpain": 4.5,
+                "title": "Nausea"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 1.5,
+                "stomachpain": 9.5,
+                "title": "LactoseIntolerance"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "coughing": 3.5,
+                "stomachpain": 8.5,
+                "title": "Pancreatis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stomachpain": 7.5,
+                "vomiting": 4.5,
+                "title": "Indigestion"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stomachpain": 9.5,
+                "vomiting": 6.5,
+                "title": "StomachCancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 3.5,
+                "chestpain": 9.5,
+                "title": "HeartAttack"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stomachpain": 8.5,
+                "chestpain": 1.5,
+                "title": "Acidity"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "chestpain": 8.5,
+                "coughing": 9.5,
+                "title": "Pneumonia"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fatigue": 5.5,
+                "stomachpain": 4.5,
+                "title": "VitaminD3Deficiency"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fatigue": 8.5,
+                "coughing": 4.5,
+                "title": "IronDeficiency"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fatigue": 8.5,
+                "stomachpain": 3.5,
+                "title": "VitaminB12Deficiency"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dizziness": 9.5,
+                "fatigue": 4.5,
+                "title": "Epilepsy"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dizziness": 7.5,
+                "vomiting": 2.5,
+                "title": "Weakness"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dizziness": 7.5,
+                "fatigue": 5.5,
+                "title": "Vertigor"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gas": 5.5,
+                "stomachpain": 4.5,
+                "title": "IrritableStomach"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 1.5,
+                "gas": 9.5,
+                "title": "Emphysema"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 4.5,
+                "coughing": 5.5,
+                "title": "Tuberculosis"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "headache": 5.5,
+                "coughing": 4.5,
+                "title": "Cancer"
+            }
+        }
+    ]
+}
