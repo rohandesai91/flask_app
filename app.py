@@ -44,7 +44,7 @@ def getQ():
 	global myList
 	x = request.args.get('a')
 
-	with open("symptom.json") as json_file:
+	with open("sym.json") as json_file:
 		theJSON = json.load(json_file)
 		str = ""
 		for i in theJSON[a]:
