@@ -49,7 +49,7 @@ def getQ():
 		str = ""
 		for i in theJSON[a]:
 			if i[b][x] >= 5.0:
-				str += i[b][c] " "
+				str += i[b][c] + " "
 		return str
 	
 app.run(host='0.0.0.0', port=5600)
