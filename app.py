@@ -25,7 +25,7 @@
 from flask import Flask, request, render_template, jsonify
 from flask_request_params import bind_request_params
 
-import urllib.request
+import urllib
 import json
 
 myList = []
@@ -46,9 +46,10 @@ def getQ():
 
 	with open("symptom.json") as json_file:
 		theJSON = json.load(json_file)
+		str = ""
 		for i in theJSON[a]:
 			if i[b][x] >= 5.0:
-				return i[b][c]
-
-
-app.run(debug=True)
+				str += i[b][c] " "
+		return str
+	
+app.run(host='0.0.0.0', port=5600)
